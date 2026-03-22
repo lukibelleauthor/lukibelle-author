@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Insights from The Vicious &amp; The Virile VII on Luki Belle – Fiction Author</title>
-    <link>http://localhost:1313/blogs/vicious-virile/</link>
+    <link>https://lukibelleauthor.com/blogs/vicious-virile/</link>
     <description>Recent content in Insights from The Vicious &amp; The Virile VII on Luki Belle – Fiction Author</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/blogs/vicious-virile/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lukibelleauthor.com/blogs/vicious-virile/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,145 +2,263 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blogs/</loc>
+    <loc>https://lukibelleauthor.com/blogs/</loc>
     <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/books/</loc>
+    <loc>https://lukibelleauthor.com/books/</loc>
     <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/</loc>
     <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blogs/baquiste/exploring-human-nature/</loc>
+    <loc>https://lukibelleauthor.com/blogs/baquiste/exploring-human-nature/</loc>
     <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blogs/baquiste/</loc>
+    <loc>https://lukibelleauthor.com/blogs/baquiste/</loc>
     <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://lukibelleauthor.com/</loc>
     <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/baquiste/scene-1/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/baquiste/scene-1/</loc>
     <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/baquiste/scene-10/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/baquiste/scene-10/</loc>
     <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/baquiste/scene-2/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/baquiste/scene-2/</loc>
     <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/baquiste/scene-3/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/baquiste/scene-3/</loc>
     <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/baquiste/scene-4/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/baquiste/scene-4/</loc>
     <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/baquiste/scene-5/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/baquiste/scene-5/</loc>
     <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/baquiste/scene-6/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/baquiste/scene-6/</loc>
     <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/baquiste/scene-7/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/baquiste/scene-7/</loc>
     <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/baquiste/scene-8/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/baquiste/scene-8/</loc>
     <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/baquiste/scene-9/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/baquiste/scene-9/</loc>
     <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/baquiste/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/baquiste/</loc>
     <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/books/the-delicate-affair-of-colonel-baquiste/</loc>
+    <loc>https://lukibelleauthor.com/books/the-delicate-affair-of-colonel-baquiste/</loc>
     <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blogs/baquiste/psychology/</loc>
+    <loc>https://lukibelleauthor.com/blogs/baquiste/psychology/</loc>
     <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blogs/baquiste/meaning-of-front-cover/</loc>
+    <loc>https://lukibelleauthor.com/blogs/baquiste/meaning-of-front-cover/</loc>
     <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blogs/baquiste/why-read-tdacb/</loc>
+    <loc>https://lukibelleauthor.com/blogs/baquiste/why-read-tdacb/</loc>
     <lastmod>2026-03-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/books/shakti-of-the-illuminated-lotus/</loc>
+    <loc>https://lukibelleauthor.com/books/shakti-of-the-illuminated-lotus/</loc>
     <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/books/the-vicious-and-the-virile-vii/</loc>
+    <loc>https://lukibelleauthor.com/books/the-vicious-and-the-virile-vii/</loc>
     <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://lukibelleauthor.com/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/shakti/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/shakti/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blogs/shakti/divine-weapons-and-destiny/</loc>
+    <loc>https://lukibelleauthor.com/blogs/shakti/divine-weapons-and-destiny/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blogs/sexy-seven/desire-and-the-supernatural/</loc>
+    <loc>https://lukibelleauthor.com/blogs/sexy-seven/desire-and-the-supernatural/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blogs/vicious-virile/</loc>
+    <loc>https://lukibelleauthor.com/blogs/vicious-virile/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blogs/shakti/</loc>
+    <loc>https://lukibelleauthor.com/blogs/shakti/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blogs/sexy-seven/</loc>
+    <loc>https://lukibelleauthor.com/blogs/sexy-seven/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/shakti/scene-1/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/shakti/scene-1/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/vicious-virile/scene-1/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/vicious-virile/scene-1/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/sexy-seven/scene-1/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/sexy-seven/scene-1/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/shakti/scene-2/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/shakti/scene-2/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/vicious-virile/scene-2/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/vicious-virile/scene-2/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/sexy-seven/scene-2/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/sexy-seven/scene-2/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/sexy-seven/scene-3/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/sexy-seven/scene-3/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/vicious-virile/scene-3/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/vicious-virile/scene-3/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/shakti/scene-3/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/shakti/scene-3/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/sexy-seven/scene-4/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/sexy-seven/scene-4/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/vicious-virile/scene-4/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/vicious-virile/scene-4/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/shakti/scene-4/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/shakti/scene-4/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/sexy-seven/scene-5/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/sexy-seven/scene-5/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/vicious-virile/scene-5/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/vicious-virile/scene-5/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/shakti/scene-5/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/shakti/scene-5/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/shakti/scene-6/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/shakti/scene-6/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/sexy-seven/scene-6/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/sexy-seven/scene-6/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/vicious-virile/scene-6/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/vicious-virile/scene-6/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/sexy-seven/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/sexy-seven/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://lukibelleauthor.com/tags/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/books/test-book/</loc>
+    <loc>https://lukibelleauthor.com/books/test-book/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blogs/sexy-seven/the-feminine-and-the-unknown/</loc>
+    <loc>https://lukibelleauthor.com/blogs/sexy-seven/the-feminine-and-the-unknown/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blogs/shakti/origin-of-asukhas/</loc>
+    <loc>https://lukibelleauthor.com/blogs/shakti/origin-of-asukhas/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blogs/shakti/power-of-exile/</loc>
+    <loc>https://lukibelleauthor.com/blogs/shakti/power-of-exile/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blogs/sexy-seven/psychology-of-invitation/</loc>
+    <loc>https://lukibelleauthor.com/blogs/sexy-seven/psychology-of-invitation/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blogs/shakti/the-rise-of-shakti/</loc>
+    <loc>https://lukibelleauthor.com/blogs/shakti/the-rise-of-shakti/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/books/the-sexy-seven-supernaturals/</loc>
+    <loc>https://lukibelleauthor.com/books/the-sexy-seven-supernaturals/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/excerpts/vicious-virile/</loc>
+    <loc>https://lukibelleauthor.com/excerpts/vicious-virile/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blogs/sexy-seven/when-longing-becomes-danger/</loc>
+    <loc>https://lukibelleauthor.com/blogs/sexy-seven/when-longing-becomes-danger/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
