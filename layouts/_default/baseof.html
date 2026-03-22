@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ .Title }}</title>
+  {{ partial "extend_head.html" . }}
+
+  <!-- ===== SEO CORE ===== -->
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>{{ .Title }} | Luki Belle</title>
+
+<meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}Dark fiction exploring power, identity, and transformation.{{ end }}">
+
+<!-- ===== OPEN GRAPH (SOCIAL SHARING) ===== -->
+
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ with .Params.description }}{{ . }}{{ end }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:image" content="/images/social-preview.jpeg">
+
+<!-- ===== TWITTER ===== -->
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:description" content="{{ with .Params.description }}{{ . }}{{ end }}">
+<meta name="twitter:image" content="/images/social-preview.jpeg">
+
+
+</head>
+<body>
+
+  <nav class="navbar">
+    <div class="nav-logo">Luki Belle</div>
+    <div class="nav-links">
+      <a href="/">Home</a>
+      <a href="/books/">Books</a>
+      <a href="/#about">About</a>
+    </div>
+  </nav>
+
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+
+</body>
+</html>

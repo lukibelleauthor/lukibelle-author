@@ -1,0 +1,10 @@
+baseURL = "https://lukibelleauthor.com"
+languageCode = "en-us"
+title = "Luki Belle"
+
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
