@@ -11,9 +11,9 @@ keywords = [
 ]
 +++
 
-<p><strong>What is divine power when it exists within—and beyond—the human world?</strong> In <em>Shakti of the Illuminated Lotus</em>, mythology, identity, and destiny intertwine across realms where ancient forces shape futuristic realities.</p>
+<p><strong>What is divine power when it exists within—and beyond—the human world?</strong> In <em>Shakti of the Illuminated Lotus</em>, mythology, identity, and destiny intertwine across realms where ancient forces shape futuristic realities. These forces unfold within a <a href="/books/shakti-of-the-illuminated-lotus/">mythological narrative of power, imbalance, and transformation</a>.</p>
 
-<h1> The Rise of Shakti </h1>
+<h1>The Rise of Shakti</h1>
 
 <h2>Mythology as a Living Force</h2>
 
@@ -85,12 +85,16 @@ But evolution.
 
 ---
 
-**And once awakened—
-she cannot be contained.**
+<p>Moments of this awakening and transformation are revealed through selected <a href="/excerpts/shakti/">scenes within the excerpt collection</a>, where mythology manifests as lived experience.</p>
 
+---
+
+<p><strong>And once awakened—  
+she cannot be contained.</strong></p>
 
 <div class="blog-navigation">
   <a href="/blogs/shakti/" class="back-link">← Back to Insights</a>
 </div>
 
-<p>Discover these mythological forces in motion through the <a href="/excerpts/shakti/">excerpt collection</a> or return to the <a href="/books/shakti-of-the-illuminated-lotus/">book page</a>.</p>
+<p>Explore further thematic reflections within the <a href="/blogs/shakti/">Shakti insights series</a>, where mythology, identity, and power continue to unfold.</p>
+
