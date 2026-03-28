@@ -67,4 +67,7 @@ It may require Colonel Valstohl Baquiste's humanity.
 
 <a href="/blogs/baquiste/" class="btn btn-secondary">Read Blogs</a>
 
+<a href="/characters/baquiste/" class="btn btn-secondary">Characters</a>
+
+
 </div>
