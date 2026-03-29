@@ -784,3 +784,16 @@ section {
   background-color: #000; /* keeps it elegant if aspect ratio differs */
 }
 
+.hero-subtle {
+  margin-top: 20px;
+  font-size: 15px;
+  color: #c9b37e;
+  opacity: 0.85;
+  font-style: italic;
+  text-align: center;
+  letter-spacing: 0.5px;
+}
+
+.hero-subtle:hover {
+  opacity: 1;
+}

@@ -48,6 +48,10 @@ draft = false
 
 </div>
 
+<p class="hero-subtle">
+  Step into my stories—where power, identity, and transformation unfold.
+</p>
+
 <h2 id="about">About the Author</h2>
 
 <div class="author-section">
