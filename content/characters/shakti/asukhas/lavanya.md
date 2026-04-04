@@ -1,6 +1,8 @@
 +++
 title = "Lavanya"
 image = "/images/lavanya.png"
+draft = false
+order = 3
 
 tagline = "A queen bound by duty, undone by grief, and haunted by a truth she cannot reveal."
 intro = "Once a warrior of fire, now the consort of a king, Lavanya carries love, guilt, and memory in silence—while standing at the center of a fractured empire."

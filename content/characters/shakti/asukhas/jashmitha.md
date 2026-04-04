@@ -1,6 +1,9 @@
 +++
 title = "Mother Balaktaan (Jashmitha)"
 image = "/images/jashmitha.png"
+draft = false
+order = 6
+
 tagline = "A warrior who chose exile over absolution—and became legend beneath the ocean."
 
 intro = "Once a revered daughter and warrior, Jashmitha now exists in exile within the oceans, guarding a world that cost her everything—including her son."

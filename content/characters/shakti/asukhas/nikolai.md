@@ -1,6 +1,8 @@
 +++
 title = "Nikolai"
 image = "/images/nikolai.png"
+draft = false
+order = 4
 
 tagline = "A mind that built a civilization—and a heart that cannot control what it desires."
 intro = "The architect of the Western Continent’s power, Nikolai is a brilliant war strategist whose loyalty, violence, and obsession exist in dangerous balance."

@@ -1,6 +1,8 @@
 +++
 title = "Enya"
 image = "/images/enya.png"
+draft = false
+order = 7
 
 tagline = "A soul untouched by violence—forced into a world that demands it."
 intro = "Raised in protection and longing for affection, Enya is a fragile yet intuitive presence navigating a reality she was never meant to endure."

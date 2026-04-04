@@ -1,6 +1,8 @@
 +++
 title = "Representative Willemhina"
 image = "/images/willemhina.png"
+draft = false
+order = 14
 
 tagline = "A warrior denied love—who turned power into patience and vengeance into purpose."
 intro = "A formidable leader and strategist, Willemhina governs the human world from the shadows, carrying both unmatched strength and an unhealed past."

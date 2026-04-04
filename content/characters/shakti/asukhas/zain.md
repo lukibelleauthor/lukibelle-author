@@ -1,6 +1,8 @@
 +++
 title = "Guardian Zain"
 image = "/images/zain.png"
+draft = false
+order = 9
 
 tagline = "A warrior who mastered restraint—until violence demanded to be unleashed."
 

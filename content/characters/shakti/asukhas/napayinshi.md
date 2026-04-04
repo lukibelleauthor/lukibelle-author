@@ -1,6 +1,8 @@
 +++
 title = "Army Leader Napayinshi"
 image = "/images/napayinshi.png"
+draft = false
+order = 13
 
 tagline = "A man who obeyed without question—even when it cost him everything."
 intro = "A disciplined and unwavering leader, Napayinshi embodies absolute obedience, sacrificing personal desire to uphold the order of the Western Continent."

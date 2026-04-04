@@ -1,6 +1,8 @@
 +++
 title = "Markos"
 image = "/images/markos.png"
+draft = false
+order = 5
 
 tagline = "A mind that understands power—but cannot escape the fear beneath it."
 intro = "A master of psychology and political influence, Markos survives through intellect and proximity to power—while hiding the fragility he fears will destroy him."

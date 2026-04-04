@@ -1,6 +1,9 @@
 +++
 title = "Dr. AlexanDRA"
 image = "/images/alexandra.png"
+draft = false
+
+order = 2
 
 tagline = "A ruler who mastered control—until destiny calls him back to what he was born to conquer."
 intro = "A sovereign of the Western Continent, AlexanDRA is a descendant of divine exile who built a civilization on restraint—while the hunger for godhood still burns beneath."

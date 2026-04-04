@@ -1,7 +1,9 @@
 +++
 title = "Three Three Honorable Teachers of Juwala"
+
 image = "/images/three-honorable-teachers.jpeg"
 draft = false
+order = 1
 
 tagline = "The origin of power carried through exile."
 

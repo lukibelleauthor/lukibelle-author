@@ -1,6 +1,8 @@
 +++
 title = "Maya"
 image = "/images/maya.png"
+draft = false
+order = 8
 
 tagline = "A warrior stripped of her path—forced to serve where she was meant to lead."
 intro = "Trained for battle but bound to servitude, Maya is a disciplined Asukha whose strength lies not only in combat—but in the silence of sacrifice."

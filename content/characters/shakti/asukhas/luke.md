@@ -1,6 +1,9 @@
 +++
 title = "Guardian Luke"
 image = "/images/luke.png"
+draft = false
+order = 11
+
 tagline = "A man who chose peace—and must protect it from those who cannot live within it."
 intro = "A devoted Guardian and family man, Luke upholds the stability of the Western Continent through communication, order, and unwavering belief in the system he serves."
 

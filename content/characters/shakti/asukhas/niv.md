@@ -2,6 +2,9 @@
 title = "Guardian Niv"
 
 image = "/images/niv.png"
+draft = false
+order = 10
+
 tagline = "A warrior driven by love lost—who cannot survive without the fire of revenge."
 
 intro = "A fierce Guardian fueled by grief, Niv lives between two worlds—one of order under AlexanDRA, and one of chaos in his relentless pursuit of vengeance."
