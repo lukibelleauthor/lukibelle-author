@@ -19,11 +19,58 @@ slug = "the-delicate-affair-of-colonel-baquiste"
   <img src="/images/lukibelle-logo.png" alt="Luki Belle Indie Fiction Author Logo">
 </div>
 
-### A Mission Beyond Victory
+<div class="book-hero">
 
-![The Delicate Affair of Colonel Baquiste](/images/TDACB-cover.jpg)
+  <div class="book-hero-text">
+    <h1>The Delicate Affair of Colonel Baquiste</h1>
+    <p class="book-hook">
+      Power, empire, and the cost of control.
+    </p>
+    <p class="book-subtext">
+      A wounded colonel on a secret mission confronts prejudice, intrigue, and a dangerous adversary in a world where victory may demand more than strategy.
+    </p>
+  </div>
 
-After years of war, the Llehstanz Monarchy finally conquers the nation of Hastan under the command of Colonel Valstohl Baquiste, a brilliant but arrogant officer whose prejudice against the Hastanas is as strong as his reputation for victory. But when a final battle leaves him permanently wounded and his military career seemingly over, Baquiste receives one last assignment: a secret mission that will force him into unfamiliar territory where strategy alone may not be enough.
+  <div class="book-hero-image">
+    <img src="/images/TDACB-cover.jpg" alt="The Delicate Affair of Colonel Baquiste cover">
+  </div>
+
+</div>
+
+---
+
+<div class="book-atmosphere">
+
+<p>
+In a world shaped by conquest and hierarchy, where power defines truth and prejudice distorts perception, one man is forced beyond the battlefield—into a realm where control is no longer absolute.
+</p>
+
+</div>
+
+---
+
+## The Systems Within This Story
+
+<div class="book-systems">
+
+<div class="system-card">
+<h3>Power & Control</h3>
+<p>Colonial dominance, military hierarchy, and the illusion of authority.</p>
+</div>
+
+<div class="system-card">
+<h3>Psychological Conflict</h3>
+<p>Prejudice, identity, and the internal war between belief and truth.</p>
+</div>
+
+<div class="system-card">
+<h3>Human Transformation</h3>
+<p>The evolution of a man forced to confront his own limitations and humanity.</p>
+</div>
+
+</div>
+
+---
 
 ## Synopsis
 
@@ -47,6 +94,8 @@ For the first time in his military career, victory may demand more than discipli
 
 It may require Colonel Valstohl Baquiste's humanity.
 
+---
+
 ## Available At
 
 <div class="buy-buttons">
@@ -61,6 +110,8 @@ It may require Colonel Valstohl Baquiste's humanity.
 
 </div>
 
+---
+
 <div class="book-links">
 
 <a href="/excerpts/baquiste/" class="btn btn-secondary">Illustrated Excerpts</a>
@@ -68,6 +119,5 @@ It may require Colonel Valstohl Baquiste's humanity.
 <a href="/blogs/baquiste/" class="btn btn-secondary">Read Blogs</a>
 
 <a href="/characters/baquiste/" class="btn btn-secondary">Characters</a>
-
 
 </div>

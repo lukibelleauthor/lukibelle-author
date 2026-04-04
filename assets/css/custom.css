@@ -54,6 +54,7 @@ body {
     gap: 30px;
     justify-content: center;
     margin: 60px 0;
+    flex-wrap: wrap;
 }
 
 .book-gallery img {
@@ -784,6 +785,19 @@ section {
   background-color: #000; /* keeps it elegant if aspect ratio differs */
 }
 
+/* BAQUISTE CHARACTER BUTTON */
+
+.btn-secondary[href="/characters/baquiste/"] {
+  border-color: #37afd4;
+  color: #37d4ba;
+}
+
+.btn-secondary[href="/characters/baquiste/"]:hover {
+  background-color: #37d4ba;
+  color: black;
+}
+
+
 .hero-subtle {
   margin-top: 20px;
   font-size: 15px;
@@ -796,4 +810,458 @@ section {
 
 .hero-subtle:hover {
   opacity: 1;
+}
+
+.hero-positioning {
+  margin-top: 18px;
+  max-width: 720px;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #d4c08a;
+  opacity: 0.9;
+}
+
+.systems-section {
+  margin-top: 80px;
+  text-align: center;
+}
+
+.systems-section h2 {
+  color: #d4af37;
+  margin-bottom: 40px;
+}
+
+.systems-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.system-card {
+  border: 1px solid rgba(212, 175, 55, 0.2);
+  padding: 25px;
+  border-radius: 10px;
+  transition: all 0.3s ease;
+}
+
+.system-card:hover {
+  border-color: rgba(212, 175, 55, 0.5);
+  transform: translateY(-4px);
+}
+
+.system-card h3 {
+  color: #d4af37;
+  margin-bottom: 10px;
+}
+
+.system-card p {
+  font-size: 14px;
+  color: #cfcfcf;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.book-card {
+  display: block;
+  text-decoration: none;
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 6px;
+  width: 180px;   /* adjust if needed */
+}
+
+.book-card img {
+  width: 100%;
+  display: block;
+  height: auto;
+  border-radius: 6px;
+}
+
+/* Hover lift + glow */
+.book-card:hover {
+  transform: translateY(-6px) scale(1.02);
+  box-shadow: 0 10px 25px rgba(212, 175, 55, 0.25);
+}
+
+/* Overlay */
+.book-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 12px;
+  background: linear-gradient(to top, rgba(0,0,0,0.9), transparent);
+  color: #d4af37;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+/* Show overlay on hover */
+.book-card:hover .book-overlay {
+  opacity: 1;
+}
+
+.book-overlay h3 {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.2;
+}
+
+.book-overlay p {
+  margin: 5px 0 0;
+  font-size: 12px;
+  color: #ccc;
+}
+
+.book-gallery a:nth-child(2) {
+  transform: translateY(20px);
+}
+
+.book-gallery a:nth-child(3) {
+  transform: translateY(-10px);
+}
+
+.book-gallery a:nth-child(4) {
+  transform: translateY(25px);
+}
+
+.book-hero {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  margin-bottom: 40px;
+}
+
+.book-hero-text {
+  max-width: 500px;
+}
+
+.book-hook {
+  font-style: italic;
+  color: #d4af37;
+  margin: 10px 0;
+}
+
+.book-subtext {
+  color: #ccc;
+}
+
+.book-hero-image img {
+  width: 260px;
+  border-radius: 8px;
+}
+
+.book-atmosphere {
+  margin: 40px 0;
+  font-style: italic;
+  color: #aaa;
+}
+
+.book-systems {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin: 30px 0;
+}
+
+.system-card {
+  border: 1px solid rgba(212,175,55,0.3);
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 250px;
+}
+
+.system-card:hover {
+  box-shadow: 0 0 20px rgba(212,175,55,0.15);
+  transform: translateY(-4px);
+  transition: all 0.3s ease;
+}
+
+.mythic-line {
+  text-transform: none !important;
+  font-style: italic;
+  color: #d4af37;
+  text-align: center;
+  max-width: 800px;
+  margin: 2rem auto;
+  line-height: 1.6;
+}
+.mythic-line::before,
+.mythic-line::after {
+  content: "";
+  display: block;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #d4af37, transparent);
+  margin: 1.5rem 0;
+}
+
+/* SHAKTI CHARACTER HUB */
+
+.shakti-character-hub {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.shakti-character-title {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.shakti-character-subtext {
+  color: #ccc;
+  max-width: 700px;
+  margin: 0 auto 40px;
+  line-height: 1.6;
+}
+
+.shakti-character-categories {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 30px;
+}
+
+.shakti-category-card {
+  border: 1px solid rgba(212,175,55,0.3);
+  padding: 30px;
+  border-radius: 10px;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.3s ease;
+  background-color: rgba(255,255,255,0.02);
+}
+
+.shakti-category-card h2 {
+  color: #d4af37;
+  margin-bottom: 10px;
+}
+
+.shakti-category-card p {
+  color: #ddd;
+  font-size: 14px;
+}
+
+.shakti-category-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 0 20px rgba(212,175,55,0.2);
+}
+
+/* SHAKTI CATEGORY PAGE */
+
+.shakti-category-page {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.shakti-category-title {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.shakti-category-subtext {
+  color: #bbb;
+  max-width: 700px;
+  margin: 0 auto 40px;
+}
+
+/* SHAKTI CHARACTER GRID */
+
+.shakti-character-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 28px;
+  margin-top: 2rem;
+}
+
+/* CARD */
+
+.shakti-character-card {
+  position: relative;
+  overflow: hidden;
+  border-radius: 14px;
+  height: 240px;
+  width: 240px;
+  display: block;
+  text-decoration: none;
+}
+
+/* IMAGE */
+
+.shakti-character-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+
+
+/* OVERLAY */
+
+.shakti-character-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 18px;
+  background: linear-gradient(to top, rgba(0,0,0,0.85), transparent);
+  color: #d4af37;
+}
+
+/* TITLE */
+.shakti-character-overlay h2 {
+  color: #d4af37;
+  margin-bottom: 5px;
+}
+
+
+.shakti-character-overlay h3 {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+/* TAGLINE */
+
+.shakti-character-overlay p {
+  margin: 4px 0 0;
+  font-size: 0.9rem;
+  color: #ccc;
+}
+
+/* HOVER ZOOM */
+
+.shakti-character-card:hover img {
+  transform: scale(1.08);
+}
+
+.shakti-character-card:hover .shakti-character-overlay {
+  opacity: 1;
+}
+/* SHAKTI CHARACTER HERO ENHANCED */
+
+.shakti-character-hero {
+  display: flex;
+  gap: 60px;
+  align-items: center;
+  margin-top: 80px;
+  flex-wrap: wrap;
+}
+
+.shakti-character-text {
+  flex: 1;
+  max-width: 600px;
+}
+
+.shakti-character-text h1 {
+  font-size: 40px;
+  margin-bottom: 12px;
+}
+
+.shakti-character-tagline {
+  color: #d4af37;
+  font-style: italic;
+  font-size: 18px;
+  margin-bottom: 18px;
+}
+
+.shakti-character-intro {
+  color: #ccc;
+  line-height: 1.7;
+  font-size: 16px;
+}
+
+/* BIGGER IMAGE */
+
+.shakti-character-visual img {
+  width: 340px;
+  border-radius: 14px;
+  box-shadow: 0 0 30px rgba(0,0,0,0.6);
+  transition: transform 0.4s ease;
+}
+
+.shakti-character-visual img:hover {
+  transform: scale(1.03);
+}
+
+/* DIVIDER */
+
+.shakti-divider {
+  margin: 50px 0;
+  border: 0;
+  height: 1px;
+  background: rgba(212,175,55,0.3);
+}
+
+/* MYTHIC LINE */
+
+.shakti-mythic-line {
+  text-align: center;
+  margin: 50px 0;
+}
+
+.shakti-mythic-line p {
+  color: #d4af37;
+  font-style: italic;
+  font-size: 18px;
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+/* SECTIONS */
+
+.shakti-character-section {
+  margin-bottom: 30px;
+}
+
+.shakti-character-section h2 {
+  color: #d4af37;
+  margin-bottom: 10px;
+}
+
+.shakti-character-section p {
+  color: #ddd;
+  line-height: 1.6;
+}
+
+/* SHAKTI CHARACTER BUTTON */
+
+.btn-secondary[href="/characters/shakti/"] {
+  border-color: #d4af37;
+  color: #d4af37;
+}
+
+.btn-secondary[href="/characters/shakti/"]:hover {
+  background-color: #d4af37;
+  color: black;
+}
+
+/* SHAKTI CATEGORY GRID */
+
+.shakti-category-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 24px;
+  margin-top: 2rem;
+}
+
+.shakti-category-card {
+  border: 1px solid #d4af37;
+  padding: 24px;
+  text-align: center;
+  text-decoration: none;
+  color: #d4af37;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+}
+
+.shakti-category-card:hover {
+  background-color: rgba(212, 175, 55, 0.15); /* soft gold tint */
+  border-color: #d4af37;
+  color: #d4af37;
+  transform: translateY(-5px);
+  box-shadow: 0 0 18px rgba(212, 175, 55, 0.25);
 }

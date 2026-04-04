@@ -1,0 +1,79 @@
+{{ define "main" }}
+
+<main class="container">
+
+  {{ if and (eq .Section "characters") (strings.Contains .File.Path "shakti") }}
+
+      <section class="shakti-character-profile">
+
+      <!-- HERO -->
+
+      <div class="shakti-character-hero">
+
+        <div class="shakti-character-text">
+          <h1>{{ .Title }}</h1>
+
+          <p class="shakti-character-tagline">
+            {{ .Params.tagline }}
+          </p>
+
+          <p class="shakti-character-intro">
+            {{ .Params.intro }}
+          </p>
+        </div>
+
+        <div class="shakti-character-visual">
+          <img src="{{ .Params.image }}" alt="{{ .Title }}">
+        </div>
+
+      </div>
+
+      <!-- DIVIDER -->
+
+      <hr class="shakti-divider">
+
+      <!-- CINEMATIC LINE -->
+
+      <div class="shakti-mythic-line">
+        <p>{{ .Params.mythic }}</p>
+      </div>
+
+      <!-- ARCHETYPE -->
+
+      <div class="shakti-character-section">
+        <h2>Archetype</h2>
+        <p>{{ .Params.archetype }}</p>
+      </div>
+
+      <!-- PSYCHOLOGY -->
+
+      <div class="shakti-character-section">
+        <h2>Psychological Core</h2>
+        <p>{{ .Params.psychology }}</p>
+      </div>
+
+      <!-- CONFLICT -->
+
+      <div class="shakti-character-section">
+        <h2>Central Conflict</h2>
+        <p>{{ .Params.conflict }}</p>
+      </div>
+
+      <!-- TRANSFORMATION -->
+
+      <div class="shakti-character-section">
+        <h2>Transformation Arc</h2>
+        <p>{{ .Params.transformation }}</p>
+      </div>
+
+    </section>
+
+  {{ else }}
+
+    {{ .Content }}
+
+  {{ end }}
+
+</main>
+
+{{ end }}

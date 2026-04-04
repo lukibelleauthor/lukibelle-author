@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juwalans on Luki Belle – Fiction Author</title>
+    <link>http://localhost:1313/characters/shakti/juwalans/</link>
+    <description>Recent content in Juwalans on Luki Belle – Fiction Author</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/characters/shakti/juwalans/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ahankara</title>
+      <link>http://localhost:1313/characters/shakti/juwalans/ahankara/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/characters/shakti/juwalans/ahankara/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kumarun and Pratinka</title>
+      <link>http://localhost:1313/characters/shakti/juwalans/kumarun-pratinka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/characters/shakti/juwalans/kumarun-pratinka/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kunjahl</title>
+      <link>http://localhost:1313/characters/shakti/juwalans/kunjahl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/characters/shakti/juwalans/kunjahl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trishna (Desire)</title>
+      <link>http://localhost:1313/characters/shakti/juwalans/trishna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/characters/shakti/juwalans/trishna/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

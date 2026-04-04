@@ -21,6 +21,9 @@ draft = false
     <p class="hero-tagline">
       Historical Military Thriller & Dark Adult Fantasy
     </p>
+    <p class="hero-positioning">
+      I create story worlds that explore power, identity, and transformation across human, psychological, and mythological systems—designed to translate across narrative, visual, and cinematic mediums.
+    </p>
   </div>
 
   <div class="hero-logo">
@@ -33,24 +36,65 @@ draft = false
 
 <div class="book-gallery">
 
-  <a href="/books/the-delicate-affair-of-colonel-baquiste/">
-  <img src="/images/TDACB-cover.jpg" alt="The Delicate Affair of Colonel Baquiste book cover with an intense sunset and two silhouetted men on a river boat with dramatic vector crossed bloodied swords and pair of delicate and beautiful ankklets">
+  <a href="/books/the-delicate-affair-of-colonel-baquiste/" class="book-card">
+    <img src="/images/TDACB-cover.jpg" alt="The Delicate Affair of Colonel Baquiste book cover">
+    <div class="book-overlay">
+      <h3>The Delicate Affair of Colonel Boquiste</h3>
+      <p>Power, empire, and the <br> cost of control</p>
+    </div>
   </a>
-  <a href="/books/the-sexy-seven-supernaturals/">
-  <img src="/images/SexySeven-cover.jpeg" alt="The Sexy Seven Supernaturals book cover with symbolic feminine figures and paranormal elements">
+
+  <a href="/books/the-sexy-seven-supernaturals/" class="book-card">
+    <img src="/images/SexySeven-cover.jpeg" alt="The Sexy Seven Supernaturals book cover">
+    <div class="book-overlay">
+      <h3>The Sexy Seven Supernaturals</h3>
+      <p>Desire, identity, and the <br> pull of the unseen</p>
+    </div>
   </a>
-  <a href="/books/shakti-of-the-illuminated-lotus/">
-  <img src="/images/Shakti-cover.jpg" alt="Shakti of the Illuminated Lotus book cover with mythological characters and trident">
+
+  <a href="/books/shakti-of-the-illuminated-lotus/" class="book-card">
+    <img src="/images/Shakti-cover.jpg" alt="Shakti of the Illuminated Lotus book cover">
+    <div class="book-overlay">
+      <h3>Shakti of the Illuminated Lotus</h3>
+      <p>Myth, destiny, and the awakening of inner power</p>
+    </div>
   </a>
-  <a href="/books/the-vicious-and-the-virile-vii/">
-  <img src="/images/VVVII-cover.jpg" alt="The Vicious and The Virile VII book cover with primal characters">
+
+  <a href="/books/the-vicious-and-the-virile-vii/" class="book-card">
+    <img src="/images/VVVII-cover.jpg" alt="The Vicious and The Virile VII book cover">
+    <div class="book-overlay">
+      <h3>The Vicious & The Virile VII</h3>
+      <p>Darkness, duality, and the psychology of survival</p>
+    </div>
   </a>
 
 </div>
 
+<div class="systems-section">
 <p class="hero-subtle">
   Step into my stories—where power, identity, and transformation unfold.
 </p>
+
+  <h2 id="systems">The Systems I Explore</h2>
+  <div class="systems-grid">
+    <div class="system-card">
+      <h3>Human Systems</h3>
+      <p>Identity, relationships, and the forces that shape human behavior.</p>
+    </div>
+    <div class="system-card">
+      <h3>Power & Control</h3>
+      <p>Structures of dominance, colonization, and the dynamics of influence.</p>
+    </div>
+    <div class="system-card">
+      <h3>Psychological Worlds</h3>
+      <p>Desire, perception, internal conflict, and the architecture of the mind.</p>
+    </div>
+    <div class="system-card">
+      <h3>Myth & Energy</h3>
+      <p>Primal forces, spiritual symbolism, and transformation beyond the visible.</p>
+    </div>
+  </div>
+</div>
 
 <h2 id="about">About the Author</h2>
 

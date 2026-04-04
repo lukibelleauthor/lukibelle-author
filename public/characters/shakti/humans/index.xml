@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Humans on Luki Belle – Fiction Author</title>
+    <link>http://localhost:1313/characters/shakti/humans/</link>
+    <description>Recent content in Humans on Luki Belle – Fiction Author</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/characters/shakti/humans/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aditya Girardieu</title>
+      <link>http://localhost:1313/characters/shakti/humans/aditya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/characters/shakti/humans/aditya/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dr. Raj Chevalier</title>
+      <link>http://localhost:1313/characters/shakti/humans/raj/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/characters/shakti/humans/raj/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Governor Richard Xavier</title>
+      <link>http://localhost:1313/characters/shakti/humans/richard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/characters/shakti/humans/richard/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kiran Shaye</title>
+      <link>http://localhost:1313/characters/shakti/humans/kiran/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/characters/shakti/humans/kiran/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Leila Xavier</title>
+      <link>http://localhost:1313/characters/shakti/humans/leila/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/characters/shakti/humans/leila/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mona Xavier</title>
+      <link>http://localhost:1313/characters/shakti/humans/mona/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/characters/shakti/humans/mona/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Professor Anjali Valpolicella</title>
+      <link>http://localhost:1313/characters/shakti/humans/anjali/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/characters/shakti/humans/anjali/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

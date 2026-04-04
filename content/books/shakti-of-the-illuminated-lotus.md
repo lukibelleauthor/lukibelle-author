@@ -18,25 +18,104 @@ genre = "Dark Futuristic Mythological Fantasy"
   <img src="/images/lukibelle-logo.png" alt="Luki Belle Indie Fiction Author Logo">
 </div>
 
-### When the divine is exiled, power does not disappear—it transforms, waits, and rises again.
 
-![Shakti of the Illuminated Lotus](/images/Shakti-cover.jpg)
+<div class="book-hero">
 
-In a futuristic world shaped by ancient exile, hidden rulers and divine forces move in silence across continents. As a powerful king seeks a sacred weapon to reclaim what was lost, a ruthless rival rises to destroy it. Caught between them, a woman unknowingly becomes the key to a force that could reshape both the mortal and the divine.
+  <div class="book-hero-text">
+    <h1>Shakti of the Illuminated Lotus</h1>
+    <p class="book-hook">
+      Desire, identity, and the pull of the unseen.<br><br>
+      In a world where divine forces walk unseen among mortals, ancient exile has not ended power—it has only changed its form.
+    </p>
+    <p class="book-subtext">
+      Power does not vanish when exiled—it transforms, waits, and rises again.
+    </p>
+  </div>
+
+ <div class="book-hero-image">
+    <img src="/images/Shakti-cover.jpg" alt="Shakti of the Illuminated Lotus cover">
+</div>
+
+</div>
+
+---
+
+<div class="book-atmosphere">
+
+<p>
+Across continents, hidden rulers, sacred beings, and forgotten lineages move in silence, shaping a future built on a past that was never resolved.
+At the center of it all—
+a woman who does not yet know what she carries.
+</p>
+
+</div>
+
+<p class="mythic-line">
+In a world where divine hierarchy has fractured and sacred power has been cast into exile, destiny is no longer governed by the heavens alone—it is awakened within those chosen to carry it.
+</p>
+
+## The Systems Within This Story
+
+<div class="systems-grid">
+
+<div class="system-card">
+<h3>Divine Power & Exile</h3>
+<p>Sacred authority removed from its origin, evolving across realms and generations.</p>
+</div>
+
+<div class="system-card">
+<h3>Mythological Lineage</h3>
+<p>Ancient bloodlines carrying memory, conflict, and destiny across time.</p>
+</div>
+
+<div class="system-card">
+<h3>Cosmic Conflict</h3>
+<p>A struggle between forces seeking restoration, domination, and destruction of divine order.</p>
+</div>
+
+<div class="system-card">
+<h3>Feminine Awakening</h3>
+<p>The emergence of a force that bridges mortal existence and divine power.</p>
+</div>
+
+</div>
+
+---
 
 ## Synopsis
 
-Experience the mysterious and fascinating world of the Asukhas, set in a fictitious and futuristic era on earth. The Western and Eastern Continents are about to become entangled in an ancient rivalry that started in the holy, divine abode of Juwala when its ruler, the Omnipotent Illuminator Kumarun, cast out his beloved son Kunjahl and his nephew Ahankara for their acts of disobedience. That original banishment created the lineage of Asukhas on earth from the seeds of the once honorable holy teachers of Juwala, Vrishaaktan, Balaktaan and Golikdan who followed their pupil Kunjahl to earth.
+Experience the mysterious and expansive world of the Asukhas—set in a futuristic era shaped by ancient divine conflict.
 
-Centuries later, the enigmatic and powerful king of Asukhas, a descendant of Vrishaaktan, rules over a technologically, scientifically, and militarily advanced Western Continent, cherishing and closely protecting his Asukhas and the humans who live blissfully ignorant of their stealth Asukha rulers. However, the king has been seeking the Trident of Kumarun that has been kept hidden for centuries by divine panthers of the Eastern Continent, who have been protecting the weapon from falling into the hands of Ahankara and the Asukhas. The divine Trident is the only thing that will allow any being from earth to enter Kumarun’s holy Juwala.
+Long before the present age, in the sacred realm of Juwala, the Omnipotent Illuminator Kumarun cast out his beloved son Kunjahl and his nephew Ahankara for their acts of disobedience.
 
-The Western Asukha king’s zeal to find the Trident seems like it may be fulfilled when an Eastern Continent’s panther unexpectedly enters his kingdom and when Anjali Valpolicella, an associate professor of philosophy, goes to seek psychotherapy from a renowned Western psychologist Dr. AlexanDRA, after she has a brief and violent encounter with the panther during a night of heavy drinking and lustful connections.
+That single act of exile reshaped destiny.
 
-Yet the Trident is sought not only by the Western Asukha king. Ahankara, the banished Juwalan nephew of Kumarun also wants the Triple Blades but not to return to Juwala, rather to destroy it and to command the military force of the Spirits of Illumination who serve only Kumarun. Ahankara’s search to seek out the divine panthers in the Eastern Continent begins when he is released from his captivity in the void when a little Eastern girl of Asukha and Juwalan lineage, is thrown into the lotus pond of her father’s mansion by her rabid Asukha ancestors. Her demise leads to a ripple effect in the ocean around the Western Continent causing flooding, storms and the birth of a profound female being. Ahankara uses the oceanic disruption to his advantage by unleashing a powerful reptile Viratgarviathan with profound abilities who causes turmoil in the oceans around both Western and Eastern Continents.
+From it emerged the lineage of Asukhas on Earth—descendants of once-holy teachers who followed their fallen pupil into the mortal realm.
 
-Thus sets the stage for an epic battle that begins in the Western Continent under the Asukha king’s realm and ends in the Eastern Continent where the divine panthers are hiding and protecting the holy Trident of Kumarun. An ancient rivalry is about to be reignited between the Western Asukhas and Ahankara because of the Eastern Continent’s panther’s presence, while Anjali Valpolicella may hold the secret to getting to the Trident of Kumarun through her therapy sessions with Dr. AlexanDRA. 
+Centuries later, that legacy has evolved into power.
 
-Experience a dark and erotic journey through the world of the Western Asukhas and into the deep ocean where monstrous creatures lurk amidst divine serpents the Nakandas as the Vrishaaktan Asukha king races to protect his kingdom. Travel across the mystical Eastern realms of Jackals, Firebirds, Plant Warriors, Quadbreeds and Caracals as Ahankara searches ruthlessly to find the Trident of Kumarun.
+The Western Continent is ruled by a formidable Asukha king—descended from Vrishaaktan—who governs a technologically advanced world where humans live unaware of the forces that guide them.
+
+Yet his ambition reaches beyond Earth.
+
+He seeks the Trident of Kumarun—a sacred weapon hidden for centuries by divine panthers of the Eastern Continent. The Trident is the only key capable of reopening the path to Juwala.
+
+But he is not the only one searching.
+
+Ahankara, once banished and imprisoned in the void, seeks the weapon not for return—but for destruction. His aim is to command the Spirits of Illumination and dismantle the divine order itself.
+
+His release is triggered by a moment of violence—
+when a young girl of sacred lineage is cast into a lotus pond, setting off a chain of events that awakens forces long dormant.
+
+From the depths of the ocean to the hidden realms of the Eastern Continent, creatures rise, storms gather, and ancient beings move once more.
+
+At the center of this unfolding conflict is Anjali Valpolicella—
+a woman drawn into forces she does not understand, yet may be destined to channel.
+
+As kings, gods, and exiled beings move toward inevitable collision—
+the question is no longer who will find the Trident.
+But what will happen when its power is finally awakened.
+
 
 ## Available At
 
@@ -57,4 +136,6 @@ Experience a dark and erotic journey through the world of the Western Asukhas an
   <a href="/excerpts/shakti/" class="btn btn-secondary">Illustrated Excerpts</a>
 
   <a href="/blogs/shakti/" class="btn btn-secondary">Read Blogs</a>
+
+  <a href="/characters/shakti/" class="btn btn-secondary">Characters</a>
 </div>

@@ -1,7 +1,57 @@
 {{ define "main" }}
 
 <main class="container">
-  {{ .Content }}
+
+  {{ if and (eq .Section "characters") (eq .File.Dir "shakti/") }}
+
+    <!-- SHAKTI CHARACTER HUB -->
+
+    <section class="shakti-character-hub">
+
+      <h1 class="shakti-character-title">The Characters of Shakti</h1>
+
+      <p class="shakti-character-subtext">
+        A world shaped by divine exile, ancient lineage, and forces that move between realms.
+      </p>
+
+      <div class="shakti-character-categories">
+
+        <a href="/characters/shakti/asukhas/" class="shakti-category-card">
+          <h2>Asukhas</h2>
+          <p>Rulers of power, secrecy, and dominion.</p>
+        </a>
+
+        <a href="/characters/shakti/juwalans/" class="shakti-category-card">
+          <h2>Juwalans</h2>
+          <p>Exiled divinity and fractured celestial order.</p>
+        </a>
+
+        <a href="/characters/shakti/forces/" class="shakti-category-card">
+          <h2>Forces</h2>
+          <p>Primal energies shaping destiny.</p>
+        </a>
+
+        <a href="/characters/shakti/humans/" class="shakti-category-card">
+          <h2>Humans</h2>
+          <p>Bridges between worlds and transformation.</p>
+        </a>
+
+        <a href="/characters/shakti/creatures/" class="shakti-category-card">
+          <h2>Creatures</h2>
+          <p>Ancient beings of myth, instinct, and terror.</p>
+        </a>
+
+      </div>
+
+    </section>
+
+  {{ else }}
+
+    <!-- DEFAULT (Baquiste + others stay safe) -->
+    {{ .Content }}
+
+  {{ end }}
+
 </main>
 
 {{ end }}

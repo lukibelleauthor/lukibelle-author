@@ -1,0 +1,46 @@
+{{ define "main" }}
+
+<main class="container">
+
+  {{ if and (eq .Section "characters") (in .File.Dir "shakti/") }}
+
+    <section class="shakti-category-page">
+
+      <h1 class="shakti-category-title">{{ .Title }}</h1>
+
+      <p class="shakti-category-subtext">
+        {{ .Params.description }}
+      </p>
+
+      <div class="shakti-character-grid">
+
+        {{ range .Pages }}
+
+          <a href="{{ .RelPermalink }}" class="shakti-character-card">
+
+            <div class="shakti-character-image">
+              <img src="{{ .Params.image }}" alt="{{ .Title }}">
+            </div>
+
+            <div class="shakti-character-overlay">
+              <h2>{{ .Title }}</h2>
+              <p>{{ .Params.tagline }}</p>
+            </div>
+
+          </a>
+
+        {{ end }}
+
+      </div>
+
+    </section>
+
+  {{ else }}
+
+    {{ .Content }}
+
+  {{ end }}
+
+</main>
+
+{{ end }}

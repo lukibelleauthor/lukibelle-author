@@ -19,31 +19,86 @@ slug = "the-sexy-seven-supernaturals"
   <img src="/images/lukibelle-logo.png" alt="Luki Belle Indie Fiction Author Logo">
 </div>
 
-### Some desires don’t fade…they summon something. 
+<div class="book-hero">
 
-## What answers when longing calls…is never what you expect.
+  <div class="book-hero-text">
+    <h1>The Sexy Seven Supernaturals</h1>
+    <p class="book-hook">
+      Desire, identity, and the pull of the unseen.
+    </p>
+    <p class="book-subtext">
+      A world where desire is not just emotion—but force.<br> <br>
+      Where identity is shaped by encounters beyond the visible, and where the supernatural is not separate from human experience—but deeply intertwined with it.
+    </p>
+  </div>
 
-![The Sexy Seven Supernaturals](/images/SexySeven-cover.jpeg)
+ <div class="book-hero-image">
+    <img src="/images/SexySeven-cover.jpeg" alt="The Sexy Seven Supernatural cover">
+</div>
 
-Seven haunting tales of women and girls whose lives are forever altered by mysterious supernatural encounters.
+</div>
 
-Each story explores the fragile boundary between emotional longing and unseen forces—where grief, ambition, fear, and desire open doors that cannot be closed.
+---
 
-From a heartbroken woman drawn into a stranger’s past, to a young girl caught between love and war, to a student pulled into the presence of something ancient and watchful—each narrative reveals a chilling truth:
+<div class="book-atmosphere">
 
-## Some encounters are not accidents, they are invitations answered.
+<p>
+In a world where desire shapes destiny and unseen forces influence human choices, identities are tested, boundaries dissolve, and transformation becomes inevitable.
+</p>
+
+</div>
+
+---
+Each narrative reveals a deeper truth:
+
+**Some encounters are not accidents—
+they are invitations answered.**
+
+--- 
+## The Systems Within This Story
+
+<div class="systems-grid">
+
+<div class="system-card">
+<h3>Desire & Temptation</h3>
+<p>The forces that pull individuals beyond logic into instinct, longing, and surrender.</p>
+</div>
+
+<div class="system-card">
+<h3>Psychological Identity</h3>
+<p>The shifting nature of self when confronted with hidden truths and internal contradictions.</p>
+</div>
+
+<div class="system-card">
+<h3>Supernatural Influence</h3>
+<p>Invisible forces that shape outcomes, blur reality, and redefine human experience.</p>
+</div>
+
+</div>
+
+<div class="book-divider"></div>
+
+---
+
+## Synopsis
+
+A collection of dark and provocative stories where human desire meets the supernatural.
+
+Each story explores the tension between control and surrender, identity and transformation, as characters encounter forces that challenge their understanding of reality.
+
+From subtle psychological shifts to overt supernatural encounters, *The Sexy Seven Supernaturals* invites readers into worlds where the unseen is not only present—but powerful.
 
 ---
 
 ## Stories Included
 
-- **The Photo and the Letter**  
-- **Strength of Feathers**  
-- **The Aunt**  
-- **Ravenous**  
-- **The Bride’s Matchmaker**  
-- **The Picture Ghost**  
-- **The Old Willow Tree**
+• The Photo and the Letter
+• Strength of Feathers
+• The Aunt
+• Ravenous
+• The Bride’s Matchmaker
+• The Picture Ghost
+• The Old Willow Tree
 
 ---
 
