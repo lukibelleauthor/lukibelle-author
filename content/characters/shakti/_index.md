@@ -1,5 +1,7 @@
 +++
 title = "Shakti Characters"
+layout = "list"
+type = "characters"
 +++
 
 <div class="shakti-category-grid">
