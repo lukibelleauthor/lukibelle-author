@@ -1,5 +1,5 @@
 +++
-title = "Foreces"
+title = "Forces"
 description = "Impactful to the search of the Trident"
 draft = false
 +++
