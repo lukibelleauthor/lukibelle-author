@@ -1,6 +1,8 @@
 +++
 title = "Governor Richard Xavier"
 image = "/images/richard.png"
+draft = false
+order = 4
 
 tagline = "Power built on control—now facing forces that cannot be governed."
 intro = "A leader who believes in structure, authority, and control over chaos."

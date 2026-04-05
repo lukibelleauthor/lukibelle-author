@@ -1,6 +1,8 @@
 +++
 title = "Kiran Shaye"
 image = "/images/kiran.png"
+draft = false
+order = 7
 
 tagline = "A man drawn into a world he was never meant to enter."
 intro = "An individual whose path crosses forces far greater than himself."

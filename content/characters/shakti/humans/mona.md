@@ -1,6 +1,8 @@
 +++
 title = "Mona Xavier"
 image = "/images/mona.png"
+draft = false
+order = 5
 
 tagline = "Quiet strength that shapes outcomes without seeking power."
 intro = "A presence whose influence lies beneath the surface of visible authority."

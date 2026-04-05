@@ -1,6 +1,8 @@
 +++
 title = "Aditya Girardieu"
 image = "/images/aditya.png"
+draft = false
+order = 3
 
 tagline = "A man shaped by lineage—haunted by what it demands of him."
 intro = "A figure caught between identity, inheritance, and a destiny he cannot escape."

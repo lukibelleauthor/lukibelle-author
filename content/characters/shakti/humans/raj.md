@@ -1,6 +1,8 @@
 +++
 title = "Dr. Raj Chevalier"
 image = "/images/raj.png"
+draft = false
+order = 2
 
 tagline = "A mind grounded in science—facing the collapse of reason."
 intro = "A doctor navigating a world where science can no longer explain what unfolds."

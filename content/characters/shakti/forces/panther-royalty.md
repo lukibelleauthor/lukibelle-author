@@ -1,6 +1,8 @@
 +++
 title = "Panther Royalty - King Suraj & his sister Princess Gayatri"
 image = "/images/panther-royalty.png"
+draft = false
+order = 3
 
 tagline = "The silent guardians of divine power—loyal to balance above all."
 intro = "Ancient protectors entrusted with safeguarding the Trident of Kumarun."

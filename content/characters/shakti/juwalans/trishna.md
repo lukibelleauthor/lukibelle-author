@@ -1,6 +1,8 @@
 +++
 title = "Trishna (Desire)"
 image = "/images/trishna.png"
+draft = false
+order = 4
 
 tagline = "Desire—created, imprisoned, and reborn as unstoppable power."
 

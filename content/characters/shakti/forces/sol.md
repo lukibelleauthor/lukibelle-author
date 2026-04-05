@@ -1,6 +1,8 @@
 +++
 title = "Sol"
 image = "/images/sol.png"
+draft = false
+order = 1
 
 tagline = "The force that reveals truth—and burns everything it touches."
 intro = "An embodiment of illumination whose presence exposes reality without mercy."

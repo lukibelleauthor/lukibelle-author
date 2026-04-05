@@ -1,6 +1,8 @@
 +++
 title = "Viratgarviathan - Man turned Monster"
 image = "/images/viratgarviathan.png"
+draft = false
+order = 1
 
 tagline = "A force unleashed—where chaos becomes power."
 intro = "A colossal being born from disruption, embodying destruction and imbalance across worlds."

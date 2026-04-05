@@ -1,6 +1,8 @@
 +++
 title = "Kunjahl"
 image = "/images/kunjahl.png"
+draft = false
+order = 1
 
 tagline = "The exile who turned Earth into a game between gods."
 

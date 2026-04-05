@@ -1,6 +1,8 @@
 +++
 title = "Nakanda Royalty - Queen Urmilanjani & her daughter Princess Ratiye"
 image = "/images/nakanda-royalty.jpeg"
+draft = false
+order = 4
 
 tagline = "The rulers of the abyss—keepers of the gateway between worlds."
 intro = "Divine serpents who guard the threshold between Earth and Juwala."

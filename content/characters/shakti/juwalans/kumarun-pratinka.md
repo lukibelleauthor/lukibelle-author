@@ -1,6 +1,8 @@
 +++
 title = "Kumarun and Pratinka"
 image = "/images/kumarun-pratinka.png"
+draft = false
+order = 3
 
 tagline = "The creators who watch, guide, and reshape destiny from beyond perception."
 

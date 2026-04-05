@@ -1,6 +1,8 @@
 +++
 title = "Leila Xavier"
 image = "/images/leila.png"
+draft = false
+order = 6
 
 tagline = "Innocence standing at the edge of transformation."
 intro = "A young life shaped by the consequences of power and legacy."

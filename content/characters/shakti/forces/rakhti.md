@@ -1,6 +1,8 @@
 +++
 title = "Rakhti"
 image = "/images/rakhti.png"
+draft = false
+order = 2
 
 tagline = "The energy that rises from chaos and feeds on conflict."
 intro = "A primal force born from unrest, thriving wherever balance collapses."

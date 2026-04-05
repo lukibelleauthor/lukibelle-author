@@ -1,6 +1,8 @@
 +++
 title = "The Supernatural Beings of the Eastern Continent"
 image = "/images/eastern-beings.png"
+draft = false
+order = 2
 
 tagline = "The ancient balance—where nature and power exist as one."
 intro = "A collective of mystical beings who protect, preserve, and embody the natural order."

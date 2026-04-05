@@ -1,6 +1,8 @@
 +++
 title = "Ahankara"
 image = "/images/ahankara.png"
+draft = false
+order = 2
 
 tagline = "The rebel who chose freedom—and now seeks to burn creation for it."
 
