@@ -1,0 +1,121 @@
+{{ define "main" }}
+
+<main class="storyworld-page">
+
+    <section class="storyworld-layer storyworld-layer-1">
+    <h1>Layer 1 — The Storyworld Identity</h1>
+   <div class="storyworld-layer-content">
+    <p>{{ .Params.layer1.statement }}</p>
+   </div>
+    </section>
+
+   <section class="storyworld-layer storyworld-layer-2">
+    <h2>Layer 2 — The World Behind the Story</h2>
+
+    <div class="storyworld-layer-content">
+
+        <img src="{{ .Params.layer2.image }}" alt="The world behind The Delicate Affair of Colonel Baquiste">
+
+        <div class="storyworld-world">
+            <h3>{{ .Params.layer2.llehstanz.identity }}</h3>
+            <p>{{ .Params.layer2.llehstanz.statement }}</p>
+        </div>
+
+        <div class="storyworld-world">
+            <h3>{{ .Params.layer2.hastan.identity }}</h3>
+            <p>{{ .Params.layer2.hastan.statement }}</p>
+        </div>
+
+        <div class="storyworld-world">
+            <h3>{{ .Params.layer2.galathi.identity }}</h3>
+            <p>{{ .Params.layer2.galathi.statement }}</p>
+        </div>
+
+    </div>
+</section>
+
+    <section class="storyworld-layer storyworld-layer-3">
+    <h2>Layer 3 – The People Who Inhabit It</h2>
+
+    <div class="storyworld-characters">
+        {{ range .Params.layer3 }}
+            <article class="storyworld-character">
+                <img src="{{ .image }}" alt="{{ .name }}">
+
+                <div class="storyworld-character-content">
+                    <h3>{{ .name }}</h3>
+                    <p class="storyworld-character-identity">
+                        {{ .identity }}
+                    </p>
+                    <p>
+                        {{ .statement }}
+                    </p>
+                </div>
+            </article>
+        {{ end }}
+    </div>
+</section>
+
+ <section class="storyworld-layer storyworld-layer-4">
+    <h2>Layer 4 — The Intrigue, Conflict &amp; Themes</h2>
+
+    <div class="storyworld-layer4">
+        {{ range $key, $moment := .Params.layer4 }}
+            <article class="storyworld-layer4-item">
+                <img src="{{ $moment.image }}" alt="{{ $moment.title }}">
+
+                <div class="storyworld-layer4-content">
+                    <h3>{{ $moment.title }}</h3>
+
+                    {{ with $moment.statement }}
+                        <p>{{ . }}</p>
+                    {{ end }}
+
+                    {{ with $moment.thematic }}
+                        <p class="storyworld-layer4-thematic">
+                            {{ . }}
+                        </p>
+                    {{ end }}
+
+                    {{ with $moment.description }}
+                        <p>{{ . }}</p>
+                    {{ end }}
+                </div>
+            </article>
+        {{ end }}
+    </div>
+</section>
+
+   <section class="storyworld-layer storyworld-layer-5">
+    <h2>Layer 5 — Enter the Story</h2>
+
+    <div class="storyworld-enter">
+        <img
+            src="{{ .Params.layer5.book_cover }}"
+            alt="{{ .Params.title }} book cover">
+
+        <div class="storyworld-enter-content">
+            <h3>{{ .Params.layer5.enter_title }}</h3>
+
+            <p>{{ .Params.layer5.enter_text }}</p>
+
+            <div class="storyworld-retailers">
+                {{ range .Params.layer5.retailers }}
+                <p>
+                    <a href="{{ .url }}" target="_blank" rel="noopener">
+                        {{ .name }}
+                    </a>
+                </p>
+                {{ end }}
+            </div>
+
+            <a class="storyworld-return" href="/storyworlds/">
+                Return to Storyworlds
+            </a>
+        </div>
+    </div>
+</section>
+
+</main>
+
+{{ end }}
