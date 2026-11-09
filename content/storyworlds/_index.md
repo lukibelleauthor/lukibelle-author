@@ -17,4 +17,19 @@ Enter the worlds behind the stories.
             </a>
         </div>
     </article>
+    <div class="storyworld-landing-divider"></div>
+    <article class="storyworld-landing-card">
+        <img
+            src="/images/Landing-page-A1.png"
+            alt="The world of The Sexy Seven Supernaturals"
+            class="storyworld-landing-image">
+        <div class="storyworld-landing-content">
+            <h2>The Sexy Seven Supernaturals</h2>
+            <a
+                href="/storyworlds/sexy-seven-storyworld/"
+                class="storyworld-landing-link">
+                Enter the Sexy Seven Storyworld
+            </a>
+        </div>
+    </article>
 </div>
