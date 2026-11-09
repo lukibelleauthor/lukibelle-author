@@ -31,6 +31,55 @@
             <p>{{ .Params.layer2.galathi.statement }}</p>
         </div>
 
+        {{ with .Params.layer2.house }}
+            <div class="storyworld-world">
+                <h3>{{ .identity }}</h3>
+                <p>{{ .statement }}</p>
+            </div>
+        {{ end }}
+
+        {{ with .Params.layer2.city }}
+            <div class="storyworld-world">
+                <h3>{{ .identity }}</h3>
+                <p>{{ .statement }}</p>
+            </div>
+        {{ end }}
+
+        {{ with .Params.layer2.kingdoms }}
+            <div class="storyworld-world">
+                <h3>{{ .identity }}</h3>
+                <p>{{ .statement }}</p>
+            </div>
+        {{ end }}
+
+        {{ with .Params.layer2.sanctuary }}
+            <div class="storyworld-world">
+                <h3>{{ .identity }}</h3>
+                <p>{{ .statement }}</p>
+            </div>
+        {{ end }}
+
+        {{ with .Params.layer2.manor }}
+            <div class="storyworld-world">
+                <h3>{{ .identity }}</h3>
+                <p>{{ .statement }}</p>
+            </div>
+        {{ end }}
+
+        {{ with .Params.layer2.university }}
+            <div class="storyworld-world">
+                <h3>{{ .identity }}</h3>
+                <p>{{ .statement }}</p>
+            </div>
+        {{ end }}
+
+        {{ with .Params.layer2.willow }}
+            <div class="storyworld-world">
+                <h3>{{ .identity }}</h3>
+                <p>{{ .statement }}</p>
+            </div>
+        {{ end }}
+
     </div>
 </section>
 

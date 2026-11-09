@@ -1278,7 +1278,9 @@ html {
 
 .storyworld-landing {
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
 }
 
 .storyworld-landing-card {
@@ -1286,6 +1288,14 @@ html {
     max-width: 1080px;
     margin: 0 auto;
     text-align: center;
+}
+
+/* Divider between Storyworld entries */
+.storyworld-landing-divider {
+    width: 70%;
+    max-width: 760px;
+    margin: 4rem auto;
+    border-top: 1px solid rgba(180, 120, 60, 0.45);
 }
 
 /* Storyworld image */
