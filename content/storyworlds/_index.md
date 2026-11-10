@@ -32,4 +32,19 @@ Enter the worlds behind the stories.
             </a>
         </div>
     </article>
+    <div class="storyworld-landing-divider"></div>
+    <article class="storyworld-landing-card">
+      <img
+        src="/images/shakti-landing-page-A1.png"
+        alt="The world of Shakti of the Illuminated Lotus"
+        class="storyworld-landing-image">
+      <div class="storyworld-landing-content">
+        <h2>Shakti of the Illuminated Lotus</h2>
+        <a
+            href="/storyworlds/shakti-storyworld/"
+            class="storyworld-landing-link">
+            Enter the Shakti Storyworld
+        </a>
+    </div>
+</article>
 </div>

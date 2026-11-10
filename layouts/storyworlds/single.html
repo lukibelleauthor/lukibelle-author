@@ -14,7 +14,7 @@
 
     <div class="storyworld-layer-content">
 
-        <img src="{{ .Params.layer2.image }}" alt="The world behind The Delicate Affair of Colonel Baquiste">
+        <img src="{{ .Params.layer2.image }}" alt="The world behind the novel">
 
         <div class="storyworld-world">
             <h3>{{ .Params.layer2.llehstanz.identity }}</h3>
@@ -79,6 +79,34 @@
                 <p>{{ .statement }}</p>
             </div>
         {{ end }}
+
+        {{ with .Params.layer2.western_power }}
+           <div class="storyworld-world">
+               <h3>{{ .identity }}</h3>
+               <p>{{ .statement }}</p>
+            </div>
+       {{ end }}
+
+       {{ with .Params.layer2.human_world }}
+           <div class="storyworld-world">
+              <h3>{{ .identity }}</h3>
+              <p>{{ .statement }}</p>
+            </div>
+       {{ end }}
+
+       {{ with .Params.layer2.eastern_realms }}
+          <div class="storyworld-world">
+             <h3>{{ .identity }}</h3>
+             <p>{{ .statement }}</p>
+           </div>
+       {{ end }}
+
+       {{ with .Params.layer2.middle_continent }}
+          <div class="storyworld-world">
+            <h3>{{ .identity }}</h3>
+            <p>{{ .statement }}</p>
+          </div>
+       {{ end }}
 
     </div>
 </section>
