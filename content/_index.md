@@ -75,6 +75,8 @@ draft = false
   Step into my stories—where power, identity, and transformation unfold.
 </p>
 
+{{< storyworld-carousel >}}
+
   <h2 id="systems">The Systems I Explore</h2>
   <div class="systems-grid">
     <div class="system-card">
