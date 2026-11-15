@@ -2062,42 +2062,48 @@ html {
 @keyframes storyworldCarousel {
 
     0%,
-    12% {
+    8% {
         transform: translateX(0);
     }
 
-    14%,
-    26% {
+    10%,
+    18% {
         transform: translateX(-100%);
     }
 
-    28%,
-    40% {
+    20%,
+    28% {
         transform: translateX(-200%);
     }
 
-    42%,
-    54% {
+    30%,
+    38% {
         transform: translateX(-300%);
     }
 
-    56%,
-    68% {
+    40%,
+    48% {
         transform: translateX(-400%);
     }
 
-    70%,
-    82% {
+    50%,
+    58% {
         transform: translateX(-500%);
     }
 
-    84%,
-    96% {
+    60%,
+    68% {
         transform: translateX(-600%);
     }
 
+    70%,
+    78% {
+        transform: translateX(-700%);
+    }
+
+    80%,
     100% {
-        transform: translateX(-600%);
+        transform: translateX(-800%);
     }
 }
 

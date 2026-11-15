@@ -47,4 +47,19 @@ Enter the worlds behind the stories.
         </a>
     </div>
 </article>
+<div class="storyworld-landing-divider"></div>
+<article class="storyworld-landing-card">
+    <img
+        src="/images/VVVII-Landing-Page-A1.png"
+        alt="The world of The Vicious & The Virile VII"
+        class="storyworld-landing-image">
+    <div class="storyworld-landing-content">
+        <h2>The Vicious & The Virile VII</h2>
+        <a
+            href="/storyworlds/vicious-virile-storyworld/"
+            class="storyworld-landing-link">
+            Enter The Vicious & The Virile VII Storyworld
+        </a>
+    </div>
+</article>
 </div>
